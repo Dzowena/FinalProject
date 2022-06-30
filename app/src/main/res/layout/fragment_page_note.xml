@@ -3,7 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/content"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="#16517E">
 
     <TextView style="?android:textAppearanceMedium"
         android:id="@+id/textview"
@@ -11,6 +12,7 @@
         android:layout_height="wrap_content"
         android:padding="16dp"
         android:lineSpacingMultiplier="1.2"
-        tools:text="content" />
+        tools:text="content"
+        android:textColor="@color/white"/>
 
 </ScrollView>

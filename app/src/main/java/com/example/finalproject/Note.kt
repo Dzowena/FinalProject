@@ -1,6 +1,6 @@
 package com.example.finalproject
 
-class Note(var key: String, val position: Int, val title: String, val content: String) {
+class Note(var key: String, var position: Int, var title: String, var content: String) {
     constructor() : this("null", -1, "", "")
 
 

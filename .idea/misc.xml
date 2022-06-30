@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/luka/AndroidStudioProjects/FinalProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2725" />
         <entry key="..\:/Users/luka/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/border_black.xml" value="0.2725" />
+        <entry key="..\:/Users/luka/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml" value="0.1435" />
+        <entry key="..\:/Users/luka/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2725" />
         <entry key="..\:/Users/luka/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/luka/AndroidStudioProjects/FinalProject/app/src/main/res/layout/dialogfragment_edit_text.xml" value="0.365625" />
         <entry key="..\:/Users/luka/AndroidStudioProjects/FinalProject/app/src/main/res/layout/fragment_change_password.xml" value="0.365625" />
         <entry key="..\:/Users/luka/AndroidStudioProjects/FinalProject/app/src/main/res/layout/fragment_login.xml" value="0.365625" />
         <entry key="..\:/Users/luka/AndroidStudioProjects/FinalProject/app/src/main/res/layout/fragment_note.xml" value="0.36666666666666664" />
@@ -12,7 +16,10 @@
         <entry key="..\:/Users/luka/AndroidStudioProjects/FinalProject/app/src/main/res/layout/fragment_page_note.xml" value="0.365625" />
         <entry key="..\:/Users/luka/AndroidStudioProjects/FinalProject/app/src/main/res/layout/fragment_registration.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/luka/AndroidStudioProjects/FinalProject/app/src/main/res/layout/fragment_reset_password.xml" value="0.365625" />
+        <entry key="..\:/Users/luka/AndroidStudioProjects/FinalProject/app/src/main/res/layout/fragment_settings.xml" value="0.33" />
         <entry key="..\:/Users/luka/AndroidStudioProjects/FinalProject/app/src/main/res/layout/listitem_note_button.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/luka/AndroidStudioProjects/FinalProject/app/src/main/res/menu/menu_note_button_list.xml" value="0.365625" />
+        <entry key="..\:/Users/luka/AndroidStudioProjects/FinalProject/app/src/main/res/menu/menu_note_page.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
